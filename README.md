@@ -70,7 +70,7 @@ Run all cells sequentially.
 - Dashboard integration
 
 ## Author
-Replace with your name.
+Dinnesh G R
 
 ## License
 This project is available under the MIT License.
